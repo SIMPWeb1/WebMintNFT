@@ -19,6 +19,12 @@
     cursor: pointer;
   }
 
+  .button-menu{
+    top: -7px !important;
+    left: 600px !important;
+    
+  }
+
   @media (max-width: 767px) {
     .button-91 {
         top: 762.819px;
