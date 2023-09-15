@@ -25,3 +25,10 @@
     left: 142.176px;
     }
   }
+
+  .non-check::before{
+    background-image: url("./unchecked_checkbox.png") !important;
+    width: 20px !important;
+    height: 20px !important;
+    margin-left: 2px;
+  }
